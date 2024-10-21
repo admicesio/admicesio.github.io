@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://admicesio.github.io/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/app/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/assets/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/css/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/includes/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/item/admicesio.txt.gz
+Sitemap: https://admicesio.github.io/src/admicesio.txt.gz
